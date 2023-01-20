@@ -13,5 +13,3 @@ function thictoc() {
     </>
   );
 }
-
-setInterval(thictoc, 1000);
